@@ -2,7 +2,7 @@ build:
   version: "0.0.1"
 
 ticketing:
-  message: "Welcome to Ticketing microservice."
+  message: "Welcome to Ticketing microservice for ltts."
   contactDetails:
     name: "Uexcel product Dev - Lead"
     email: "uexcel@gmail.com"
