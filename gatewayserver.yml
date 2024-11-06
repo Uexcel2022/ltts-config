@@ -10,6 +10,9 @@ management:
     web:
       exposure:
         include: "*"
+  info:
+    env:
+      enabled: true
 
   endpoint:
     health:
@@ -40,3 +43,9 @@ eureka:
 
 server:
    port: 8095
+
+info:
+  app:
+    name: gatewayserver
+    description: ltts gateway server
+    version: "0.0.1"
