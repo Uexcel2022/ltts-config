@@ -39,7 +39,7 @@ eureka:
 
 info:
   app:
-    name: ticketing
-    description: "local transport system"
+    name: "ticketing"
+    description: "Safe Ride Ticketing Microservice"
     version: "0.0.1"
 

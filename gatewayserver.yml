@@ -47,5 +47,5 @@ server:
 info:
   app:
     name: gatewayserver
-    description: ltts gateway server
+    description: Safe Ride Microservices Gateway Server
     version: "0.0.1"

@@ -36,7 +36,7 @@ eureka:
 info:
   app:
     name: "customer"
-    description: "local transport system"
+    description: "Safe Ride Customer Microservice"
     version: "0.0.1"
 
 server:
